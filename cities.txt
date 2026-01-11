@@ -7,3 +7,6 @@ Europe:
 6. Berlin
 7. New York
 8. America
+9. Canada
+10. India
+11. China
