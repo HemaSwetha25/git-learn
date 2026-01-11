@@ -6,3 +6,5 @@ Europe:
 4. France
 5. Germany
 6. Berlin
+7. New York
+8. America
