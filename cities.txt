@@ -1,7 +1,7 @@
 Europe:
 1. Paris - Eiffel Tower
 2. Tokyo
-3. London
+3. London - Bridge
 4. France
 5. Germany
 6. Berlin
